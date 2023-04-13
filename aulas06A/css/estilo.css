@@ -1,0 +1,21 @@
+   body{
+    background-color: black;
+   }
+   p{
+        color: black;
+    }
+
+    .um{
+        color: aqua;
+    }
+    .dois{
+        color: blueviolet;
+    }
+    .três{
+        color: aqua;
+    }
+    #titulo{
+        color: rgb(245, 24, 24);
+        border: 2px solid chartreuse;
+        background-color: rgb(29, 18, 189);
+    }
