@@ -1,0 +1,18 @@
+.banner{
+    width: 100%;
+}
+
+header{
+    background-color: coral;
+}
+
+.container{
+    width: 80%;
+    background-color: coral;
+    margin: auto;
+}
+
+footer{
+    background-color: rgb(255, 1, 1);
+    width: 100%;
+}
